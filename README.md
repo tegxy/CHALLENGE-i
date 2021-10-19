@@ -44,7 +44,7 @@ There are still other things i need to learn and I'll still need to keep practic
 
 **Acknowledgments**
 
--KFC
+- KFC
 - Victor Adeyemo
 
 
